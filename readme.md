@@ -1,6 +1,6 @@
 # BLAKE3 WASM
 
-BLAKE3 implementation extracted from [BLAKE3 team](https://github.com/BLAKE3-team/BLAKE3/blob/master/c/blake3.c) and compiled to WebAssembly.
+BLAKE3 implementation extracted from [the reference implementation](https://github.com/BLAKE3-team/BLAKE3/blob/master/c/blake3.c) and compiled to WebAssembly.
 
 ## Usage
 ```js
